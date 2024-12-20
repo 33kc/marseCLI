@@ -1,0 +1,2 @@
+matplotlib==3.7.1
+argparse==1.4.0    # argparse is included in Python 2.x and 3.x, but specifying it may be helpful for older versions
