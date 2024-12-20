@@ -43,8 +43,8 @@ The quadratic formula
 ```bash
 marse -eq "x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}"
 ```
+![quadratic formula](example.png)
 
-The CLI will render the equation in a matplotlib figure
 
 ## License
 
